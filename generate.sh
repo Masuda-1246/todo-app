@@ -1,0 +1,1 @@
+protoc api/todopb/todo.proto --go_out=plugins=grpc:.
